@@ -1,0 +1,655 @@
+[
+  {
+    "projectName": "#1: How Can Physiological Data Support the Self-Management of Stress?",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4597/",
+    "teamMembers": ["Janna Rutor", "Michelle Wang"]
+  },
+  {
+    "projectName": "#2: How Can Urban Planning Students Use Virtual Reality to Understand Climate Change Impacts and Adaptation?",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4598/",
+    "teamMembers": ["Justin Ang", "Mitchell Wong"]
+  },
+  {
+    "projectName": "#3: How Can We Use Board Games to Teach Robot Ethics?",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4599/",
+    "teamMembers": ["Ammaar Marzook", "Khaled Shaik"]
+  },
+  {
+    "projectName": "#4: How Do Spatial Code Editors Help Programmers Understand Code?",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4600/",
+    "teamMembers": ["Matthew Wai", "Jason Yang"]
+  },
+  {
+    "projectName": "#5: Generative AI models for the inverse problem of electrocardiography",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4601/",
+    "teamMembers": ["Aaron Guo", "Josh Jeffers"]
+  },
+  {
+    "projectName": "#6: AI for sentiment analysis of financial text and its application to trading",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4602/",
+    "teamMembers": ["Hugo Mills", "Ben Zhou"]
+  },
+  {
+    "projectName": "#7: Can HLS effectively target several small devices (GPUs and FPGAs) for use in satellites?",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4604/",
+    "teamMembers": ["Dylan Chamberlain", "Franklin O'Sullivan"]
+  },
+  {
+    "projectName": "#8: Photovoltaic MPPT and MPC control of Hybrid Energy Storage System in Microgrid System",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4608/",
+    "teamMembers": ["Harry Li", "Aamir Mohmand"]
+  },
+  {
+    "projectName": "#9: Reinforcement Learning based control of an Autonomous Formula SAE Car",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4625/",
+    "teamMembers": ["Kyla Lee", "Futian Zhou"]
+  },
+  {
+    "projectName": "#10: Reinforcement Learning Based Control for Robotic Grasping and Manipulation with a Robot Hand",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4626/",
+    "teamMembers": ["Benny Del Rosario", "Josh Meyer"]
+  },
+  {
+    "projectName": "#11: AI Plays Pokémon - can AI become the very best like no one ever was",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4627/",
+    "teamMembers": ["Samuel Boasman", "PK Wadsworth"]
+  },
+  {
+    "projectName": "#12: CDP-Mechanical Eng-Development of a DC current offset probe for high power applications",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4638/",
+    "teamMembers": ["Kyja McCabe"]
+  },
+  {
+    "projectName": "#13: Development of a Transformer-Rectifier Flux Pump for Superconducting Magnets",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4651/",
+    "teamMembers": ["Oscar Kippenberger", "Jacob Mander"]
+  },
+  {
+    "projectName": "#14: Draw an engineer. Investigating the engineering gender gap",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4670/",
+    "teamMembers": ["Lia Arroyo", "Michelle Lie"]
+  },
+  {
+    "projectName": "#15: An Automated Assessment Grader using ChatGPT",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4690/",
+    "teamMembers": ["Matthew Stevens", "Caleb Wei"]
+  },
+  {
+    "projectName": "#16: DC Protection Schemes based Improvement of Reliability of HVDC Systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4695/",
+    "teamMembers": ["James Davison", "Lucas Gray"]
+  },
+  {
+    "projectName": "#17: Can AI help detect biases affecting the reliability of Open Source documentation?",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4696/",
+    "teamMembers": ["Jessica Lowe", "Samuel Ou"]
+  },
+  {
+    "projectName": "#18: Online platform to enhance student CV work experience and project sections",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4697/",
+    "teamMembers": ["Ruth Gao", "Lucy Zhu"]
+  },
+  {
+    "projectName": "#19: Investigation of laser powered drone integration techniques",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4698/",
+    "teamMembers": ["Ziqi Jin", "Han Zhi"]
+  },
+  {
+    "projectName": "#20: Web application tool for technical interview preparation",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4723/",
+    "teamMembers": ["Niraj Patil", "Jacob Tan"]
+  },
+  {
+    "projectName": "#21: Investigating improvements of acceleration structures in offline pathtracers",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4743/",
+    "teamMembers": ["Jack Freeth", "Zane Larking"]
+  },
+  {
+    "projectName": "#22: Development of low power three-phase IPT system",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4744/",
+    "teamMembers": ["Simon Holland", "Jan Koeglberger"]
+  },
+  {
+    "projectName": "#23: Investigating wireless synchronisation in a bipolar pad WPT system to be used for EV charging",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4745/",
+    "teamMembers": ["Shaorong Liu", "Andrew Sknar"]
+  },
+  {
+    "projectName": "#24: Providing patients suffering from cancer or other terminal illnesses with easy to digest information",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4750/",
+    "teamMembers": ["Aarnob Guha", "Andrew Lam"]
+  },
+  {
+    "projectName": "#25: CDP – CIVIL ENGINEERING - Understanding the mobility patterns and transportation needs of rural Māori communities",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4773/",
+    "teamMembers": ["Jordan Cooke", "Jace Ye"]
+  },
+  {
+    "projectName": "#26: Physical coding blocks for robotics and software education",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4774/",
+    "teamMembers": ["Victoria Jones", "Matthew Taylor"]
+  },
+  {
+    "projectName": "#27: Employing Artificial Intelligence and Remote Sensing Technologies for Early Detection and Response",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4787/",
+    "teamMembers": ["Farin Ali", "Tuan Le"]
+  },
+  {
+    "projectName": "#28: Developing Novel Backpropagation-free Deep Neural Network",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4788/",
+    "teamMembers": ["James Gong", "Bruce Li"]
+  },
+  {
+    "projectName": "#30: A comparative study on IPT pad design using Topology Optimization (TO)",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4793/"
+  },
+  {
+    "projectName": "#31: Sensorless Control of BLDC motors under impulse loading conditions",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4798/",
+    "teamMembers": ["Aaron Beintken", "Ethan Kyle"]
+  },
+  {
+    "projectName": "#32: Exploring Haptic Sensations for Timbre in Music",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4802/",
+    "teamMembers": ["Benson Cho", "Rishi Shukla"]
+  },
+  {
+    "projectName": "#33: Acceleration of Capsule Networks on Heterogeneous Adaptive Platforms",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4803/",
+    "teamMembers": ["Jerome Jose", "Nicholas Wolf"]
+  },
+  {
+    "projectName": "#34: Energy Efficient Machine Learning Solutions on Adaptive Platforms",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4804/",
+    "teamMembers": ["Heath Grant", "Caleb Yang"]
+  },
+  {
+    "projectName": "#35: Building a Machine Learning Model to Optimise the Varying of Financial Trading Model Parameters and Maximise Financial Trading Profitability",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4805/",
+    "teamMembers": ["Oliver Mitchell", "Rivah Somerville"]
+  },
+  {
+    "projectName": "#36: Exploration of Digital equity within Auckland",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4806/",
+    "teamMembers": ["Gurjot Bhullar", "Kai Hirafune"]
+  },
+  {
+    "projectName": "#37: Investigating speech intelligibility inequity in our learning spaces.",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4807/",
+    "teamMembers": ["Woo Jin Lee", "Ariel Wang"]
+  },
+  {
+    "projectName": "#38: Broadband Horn Antennas for Anechoic Chamber Measurements",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4815/",
+    "teamMembers": ["Josh Williamson", "Kian Zadeh"]
+  },
+  {
+    "projectName": "#39: High-Performance Metasurface Waveguides",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4816/",
+    "teamMembers": ["Arthur Christanand", "Kristopher Doria"]
+  },
+  {
+    "projectName": "#40: Design of a Coaxial-to-Ridged Waveguide Transition",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4817/"
+  },
+  {
+    "projectName": "#41: Reconfigurable Hardware Accelerator for Energy-Efficient AI",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4819/",
+    "teamMembers": ["Uma Surendranath", "Dulanya Withana"]
+  },
+  {
+    "projectName": "#42: Application-Specific Processor for Computer Vision",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4820/",
+    "teamMembers": ["Bailey Clague", "Ian Kuik"]
+  },
+  {
+    "projectName": "#43: Secure Processor for Multi-Tasking Applications",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4821/"
+  },
+  {
+    "projectName": "#44: UAV Multispectral Imaging and Machine Learning in Precision Agriculture",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4827/",
+    "teamMembers": ["Parambir Singh", "Maryam Zehra"]
+  },
+  {
+    "projectName": "#45: Pallet Detection with Machine Learning: From synthetic data to the real world",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4828/",
+    "teamMembers": ["Yechan Kim", "Henri Mueller"]
+  },
+  {
+    "projectName": "#46: A Neural Speaker Diarization System for Doctors",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4829/",
+    "teamMembers": ["Steven Li", "Adi Shenoy"]
+  },
+  {
+    "projectName": "#47: Power Quality Assessment in Smart Grid using Machine Learning Techniques",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4852/",
+    "teamMembers": ["Ganesh Mahesh", "Harry Wigley"]
+  },
+  {
+    "projectName": "#48: Intelligent Controllers for Wind Energy Systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4853/",
+    "teamMembers": ["Henry Kim", "Wade Park"]
+  },
+  {
+    "projectName": "#49: Digitalization of 'The Gift Box' Tool",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4862/",
+    "teamMembers": ["Michael Hardy", "Ben Martin"]
+  },
+  {
+    "projectName": "#50: Daylight control in indoor lighting systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4865/",
+    "teamMembers": ["Vance Andrews", "Owen McGrath"]
+  },
+  {
+    "projectName": "#51: Emergency lighting for low visibility spaces",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4866/",
+    "teamMembers": ["Soleil de Bruto", "Lanishka Varatharajan"]
+  },
+  {
+    "projectName": "#52: Transmitting audio via light",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4867/",
+    "teamMembers": ["Viktor Neshikj", "Oliver Wright"]
+  },
+  {
+    "projectName": "#53: AI-Enabled Chatbot for Mental and Wellbeing Care",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4869/",
+    "teamMembers": ["Amanda Lao", "Zhuozhi Ou"]
+  },
+  {
+    "projectName": "#54: AI-Enabled Virtual Assistant for Aged Care",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4870/",
+    "teamMembers": ["Wenxi Kang", "Ruoyu Zhang"]
+  },
+  {
+    "projectName": "#55: Enhanced Indoor Activity Tracking with Risk Management",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4872/",
+    "teamMembers": ["Johnny Shen", "Cheryl Yu"]
+  },
+  {
+    "projectName": "#56: Automating clinical trials using NLP and synchronous programming",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4890/",
+    "teamMembers": ["Harsheel Singh", "Peter Yin"]
+  },
+  {
+    "projectName": "#57: A deterministic networking platform using Google bittide",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4891/",
+    "teamMembers": ["Allan Chien", "Daniel Martinez"]
+  },
+  {
+    "projectName": "#58: Stress Monitoring and Quantification through Digital Biomarkers",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4892/",
+    "teamMembers": ["Timothy Looi", "Dhruvkanth Puli"]
+  },
+  {
+    "projectName": "#59: Investigating inclusion of software engineering tools and practices",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4904/",
+    "teamMembers": ["Atharva Arankalle", "Amisha Singh"]
+  },
+  {
+    "projectName": "#60: Blockchain-Enhanced Roaming Contracts: Integrating Consensus and Semantic Engines for Mobile Networks Operators Service Optimization",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4917/",
+    "teamMembers": ["Kiko Ilievski", "Sharjil Kazi"]
+  },
+  {
+    "projectName": "#61: Plant monitoring system to estimate harvesting timing",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4929/",
+    "teamMembers": ["Do Jun Kwon", "Kim Zuo"]
+  },
+  {
+    "projectName": "#62: IPT and CV enabled UAV for inaccessible urban gardens",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4930/",
+    "teamMembers": ["Marianne Healey", "Jack Sutcliffe"]
+  },
+  {
+    "projectName": "#63: Web-Based Device Management Application for Robotics and IoT",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4932/",
+    "teamMembers": ["Jolin Chen", "Frank Situ"]
+  },
+  {
+    "projectName": "#64: Dynamic Facial Expression Generation for Head Robots with Adaptive Style Control",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4933/",
+    "teamMembers": ["Isaac Lee", "Samuel Yoo"]
+  },
+  {
+    "projectName": "#65: Enhancing Human Motion Generation with Flexible Style Control",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4934/",
+    "teamMembers": ["James Gai", "Xinhuiqiang Xu"]
+  },
+  {
+    "projectName": "#66: Optimising Machine Learning Models",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4936/",
+    "teamMembers": ["Harrison Bound", "Elijah Kahuroa-Stainton"]
+  },
+  {
+    "projectName": "#67: Real-time Music Generation",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4937/",
+    "teamMembers": ["Eric Jiang", "Kevin Jin"]
+  },
+  {
+    "projectName": "#68: Improved Cell Balancing Techniques that Co-operate with Regenerative Energy Recovery Systems for Electric Race Cars",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4938/",
+    "teamMembers": ["Simon Alexander", "Andy Woo"]
+  },
+  {
+    "projectName": "#69: Analysis of news sources to provide localized disaster information",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4961/",
+    "teamMembers": ["Grant Liu", "Wen Jie See"]
+  },
+  {
+    "projectName": "#70: Presentation of disaster news information to different kinds of users",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4963/",
+    "teamMembers": ["Vishva Dave", "Aditya Sohani"]
+  },
+  {
+    "projectName": "#71: Image Motion Elimination for Aquaculture Vision",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4982/",
+    "teamMembers": ["Tyler Kim", "Luke McCallum"]
+  },
+  {
+    "projectName": "#72: VR and psychophysiological monitoring to develop resilience in Health and Safety training",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4983/",
+    "teamMembers": ["Joon Young Baik", "Luke Kim"]
+  },
+  {
+    "projectName": "#73: Identifying intruders on scooters entering carparks",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4984/",
+    "teamMembers": ["Vinayak Joshi", "Adwait Mane"]
+  },
+  {
+    "projectName": "#74: Visual LegalRuleML editor with auto-completion",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4986/",
+    "teamMembers": ["Leander D'Souza", "Trevor Po"]
+  },
+  {
+    "projectName": "#75: Translating tables of information into a logical representation",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/4987/",
+    "teamMembers": ["Shiangbo Chang", "Manjot Mann"]
+  },
+  {
+    "projectName": "#76: Computer Vision Support for Reinforcement Learning Overtaking Maneuvering of a Formula SAE CAR",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5014/",
+    "teamMembers": ["Tony Lu", "Raymond Luo"]
+  },
+  {
+    "projectName": "#77: Can GPTs revolutionize forecasting the hospitalization burden caused by respiratory diseases?",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5020/",
+    "teamMembers": ["Alex Kim", "Joao Madelino"]
+  },
+  {
+    "projectName": "#78: Virtual reality installation to study embodiment",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5025/"
+  },
+  {
+    "projectName": "#79: Intelligent body tracking and agent in Virtual reality to study embodiment",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5027/",
+    "teamMembers": ["Amanda Huang", "Jason Xavier"]
+  },
+  {
+    "projectName": "#80: Mixed reality and electronic prototyping installation to study embodiment",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5028/"
+  },
+  {
+    "projectName": "#81: Immersive Pūrākau: Virtual reality Māori creation story installation to study wellbeing and embodiment",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5029/"
+  },
+  {
+    "projectName": "#82: Improved filtering for Non-Invasive Blood-Glucose detection",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5030/",
+    "teamMembers": ["Puja Nory", "Hira Saleem"]
+  },
+  {
+    "projectName": "#83: A pick-and-place for rapid prototyping",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5032/",
+    "teamMembers": ["James Bao", "Sam Skinner"]
+  },
+  {
+    "projectName": "#84: Examining the impact of criticism in software code review",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5039/",
+    "teamMembers": ["Tisha Naicker", "Tanishq Ranjith"]
+  },
+  {
+    "projectName": "#86: Designing Dynamically Reconfigurable Factory Automation Systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5050/",
+    "teamMembers": ["Yiming Li", "Ruizhe Wang"]
+  },
+  {
+    "projectName": "#87: Novel uses of Digital Twin technology in Industrial Automation Systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5051/",
+    "teamMembers": ["Alex Hope", "Anna Shimizu"]
+  },
+  {
+    "projectName": "#88: ReactiveNiOS - an execution platform for concurrent programming of real-time software systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5053/",
+    "teamMembers": ["Kaidi Ginns", "Peter Stenersen"]
+  },
+  {
+    "projectName": "#89: Designing a heterogeneous multiprocessor on chip for combined reactive and data dominated real-time systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5056/"
+  },
+  {
+    "projectName": "#90: Tangible AR for Data Structure Teaching",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5070/",
+    "teamMembers": ["Sophia Creak", "Logan Head"]
+  },
+  {
+    "projectName": "#91: Poison is Not Traceless: Fully-Agnostic Detection of Poisoning Attacks",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5072/",
+    "teamMembers": ["Eugene Chua", "Clemen Sun"]
+  },
+  {
+    "projectName": "#93: Resilience of Renewable Energy Power System Networks",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5080/",
+    "teamMembers": ["Khaled Hasaniah", "Keith Van Oosterom"]
+  },
+  {
+    "projectName": "#94: Emotion Dashboard Application",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5082/",
+    "teamMembers": ["Daniel Eir", "Jacky Zhou"]
+  },
+  {
+    "projectName": "#95: Connecting Adversarial Learning and Applicability Domain in Cheminformatics",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5083/",
+    "teamMembers": ["Lee Violet Ong", "Emily Zou"]
+  },
+  {
+    "projectName": "#96: Investigating Autobiographical Memory Retrieval and Emotion Induction in Virtual Reality",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5084/",
+    "teamMembers": ["Samhar Aeron", "Rebecca Hunt"]
+  },
+  {
+    "projectName": "#97: Grid-supporting and Grid-forming Microgrids",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5085/",
+    "teamMembers": ["Xin yang Han", "Alex Won"]
+  },
+  {
+    "projectName": "#98: Streamlining adversarial machine learning on Memento",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5086/",
+    "teamMembers": ["Emma Wang", "Lina Yuan"]
+  },
+  {
+    "projectName": "#99: Enhancing Manufacturing Quality with AI-Powered Vision Systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5088/",
+    "teamMembers": ["Qi Qin", "Kylyn Wu"]
+  },
+  {
+    "projectName": "#100: 3D scanner",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5092/",
+    "teamMembers": ["Manav Lal", "Josef Santos"]
+  },
+  {
+    "projectName": "#101: Improving the vision system for disease detection",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5097/",
+    "teamMembers": ["Nicholas Tjong", "Ray Xiao"]
+  },
+  {
+    "projectName": "#102: Fault Induced Delayed Voltage Recovery in Active Electricity Distribution Networks",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5103/",
+    "teamMembers": ["Leon Digges", "Pas Mudannayaka"]
+  },
+  {
+    "projectName": "#103: RythmWalker – A Mobile AR Rhythm Game for Promoting Physical Activity",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5105/",
+    "teamMembers": ["Yizheng Xing", "Yuqi Xing"]
+  },
+  {
+    "projectName": "#104: AR/VR Perceptual Training",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5108/",
+    "teamMembers": ["Luca Eastwood", "Tristan Mona"]
+  },
+  {
+    "projectName": "#105: Sustainable computing of machine learning and data science jobs",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5114/",
+    "teamMembers": ["Stephen Brooks", "Samuel Hu"]
+  },
+  {
+    "projectName": "#106: Column generation algorithm for task scheduling in parallel systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5118/",
+    "teamMembers": ["Jake Bowden", "Sergei Ogai"]
+  },
+  {
+    "projectName": "#107: VR Bicycle Safety Perception And Training",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5127/",
+    "teamMembers": ["Leander Legaspi", "Connor Stevens"]
+  },
+  {
+    "projectName": "#108: Drone-based wireless sensor network with battery-less sensors",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5130/",
+    "teamMembers": ["Mingyu Fan", "Helen Huang"]
+  },
+  {
+    "projectName": "#109: A digital twin for Lake Waikare using sensor equipped autonomous watercrafts",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5131/",
+    "teamMembers": ["Ken Tsao", "Samuel Ward"]
+  },
+  {
+    "projectName": "#110: mmWave based human activity recognition",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5132/",
+    "teamMembers": ["Yang Qian", "Katie Zhou"]
+  },
+  {
+    "projectName": "#111: AR Piano Tutor",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5133/",
+    "teamMembers": ["Dan Chae", "Jeremy Ting"]
+  },
+  {
+    "projectName": "#112: Augmented Reality Gesture-Based Interaction System",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5134/",
+    "teamMembers": ["Tony Gao", "Shiqing Guan"]
+  },
+  {
+    "projectName": "#113: Enhancing Cybersecurity in Digital Substations: An Investigation into the Practical Application of Intrusion Detection Systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5135/",
+    "teamMembers": ["Sukhleen Kaur", "Kenny Cheuk Fung Lam"]
+  },
+  {
+    "projectName": "#114: Testing Common Software Vulnerability Patches",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5139/",
+    "teamMembers": ["Xin Yang Liu", "Kyle Lowe"]
+  },
+  {
+    "projectName": "#115: Towards a Framework to Improve and Validate Source Code generated by Large Language Models",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5140/",
+    "teamMembers": ["Dylan Bradshaw", "Ravin Ravi"]
+  },
+  {
+    "projectName": "#116: Towards Automated Behaviour-Driven Development",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5141/",
+    "teamMembers": ["Guryash Matharu", "Naren Rohan"]
+  },
+  {
+    "projectName": "#117: Beehive CO2 Monitoring",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5148/",
+    "teamMembers": ["Shaaran Elango", "Brian Wei"]
+  },
+  {
+    "projectName": "#118: Machine learning applied to behavioural markers in beehives",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5149/",
+    "teamMembers": ["Jiajun Luo", "Lauren Parker"]
+  },
+  {
+    "projectName": "#119: Bias in Large Language Models",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5150/",
+    "teamMembers": ["Nathan Bell", "Troy Murdoch"]
+  },
+  {
+    "projectName": "#120: [CDP-ENGSCI] PkW Shareholder Matching and Visualisation",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5151/",
+    "teamMembers": ["Dana Seong"]
+  },
+  {
+    "projectName": "#121: The confluence and navigation of disconnected repositories of building information",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5158/",
+    "teamMembers": ["Samuel Cordner", "Dylan Heron"]
+  },
+  {
+    "projectName": "#122: Wireless charging of real-time tracking devices for healthcare applications",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5164/",
+    "teamMembers": ["Qiansong Luo", "Aihui Zou"]
+  },
+  {
+    "projectName": "#123: Contactless power supply and control of wheel hub motors",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5165/",
+    "teamMembers": ["Frank Chen", "Johnson Lu"]
+  },
+  {
+    "projectName": "#124: Automated Ontology Learning with Large Language Models",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5167/",
+    "teamMembers": ["Jasper Lai", "Henry Wang"]
+  },
+  {
+    "projectName": "#125: Improving Search-Based Test Generation with Large Language Models",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5168/",
+    "teamMembers": ["Janith Hettiarachchi", "Robert Sefaj"]
+  },
+  {
+    "projectName": "#126: Electricity Smart Meter Data Applications using Big Data analytics and ANN",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5170/",
+    "teamMembers": ["Tianchang Feng", "Ang Li"]
+  },
+  {
+    "projectName": "#127: Decoding Discourse: Advancing Fairness in Speech Technology",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5171/",
+    "teamMembers": ["Dhruv Joshi", "Aaron Rodrigues"]
+  },
+  {
+    "projectName": "#128: Anomaly detection for IoT-based time series",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5212/",
+    "teamMembers": ["Joshua Morley", "Ryan Yoon"]
+  },
+  {
+    "projectName": "#129: High power Inductor design for an IPT Inverter",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5214/",
+    "teamMembers": ["Fraser McDowell", "Finnian Montgomery"]
+  },
+  {
+    "projectName": "#130: Supercapacitor energy management for energy harvesting systems",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5225/",
+    "teamMembers": ["Tawan Sangprong", "Ri Yoo"]
+  },
+  {
+    "projectName": "#131: STEM: Computing and Electronics Education for High School Classrooms",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5226/",
+    "teamMembers": ["James Beazley", "Penelope Goertzen"]
+  },
+  {
+    "projectName": "#132: Mood Colours - Colours for treating anxiety and depression",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5228/",
+    "teamMembers": ["Jeffery Cao", "Justin Huang"]
+  },
+  {
+    "projectName": "#133: Compressive Sensing Illustrated (CSI): A Visual Educational Aid for Learning Compressive Sensing Concepts",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5236/",
+    "teamMembers": ["Sree Bommineni"]
+  },
+  {
+    "projectName": "#134: Behaviour Analysis using Computer Vision for Training Accelerator-based Ear Tags",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5237/",
+    "teamMembers": ["Jason Perng", "Sadat Taseen"]
+  },
+  {
+    "projectName": "#135: Automatic Testing of StackOverflow.com Code Snippets",
+    "url": "https://part4project.foe.auckland.ac.nz/home/project/detail/5238/",
+    "teamMembers": ["Tudor Zagreanu"]
+  }
+]
